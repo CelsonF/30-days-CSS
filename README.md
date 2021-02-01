@@ -30,3 +30,5 @@ Eu segui o desafio baseado nesses dois perfis do github:
 # Desafio dia 01 - Ícone de mídia social em camadas (Layered Social Media Icon Hover Effects)
 
 - [Meu codigo](https://github.com/iiizadora/30-days-CSS/tree/main/day-1)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia01.gif">
