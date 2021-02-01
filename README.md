@@ -26,3 +26,7 @@ Aprimorar o meu conhecimento e habilidades em HTML5 e CSS3 com 30 mini projetos 
 
 Eu segui o desafio baseado nesses dois perfis do github:
 [Pamella Caffa](https://github.com/pcaffa/30daysCSS) e [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS).
+
+# Desafio dia 01 - Ícone de mídia social em camadas (Layered Social Media Icon Hover Effects)
+
+- [Meu codigo](https://github.com/iiizadora/30-days-CSS/tree/main/day-1)
