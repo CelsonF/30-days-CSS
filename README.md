@@ -27,7 +27,7 @@ Aprimorar o meu conhecimento e habilidades em HTML5 e CSS3 com 30 mini projetos 
 Eu segui o desafio baseado nesses dois perfis do github:
 [Pamella Caffa](https://github.com/pcaffa/30daysCSS) e [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS).
 
-#### Youtube Referencias dos desafios
+#### Youtube Referências nos desafios
 
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - [CodingNepal](https://www.youtube.com/c/CodingNepal/videos)
 
