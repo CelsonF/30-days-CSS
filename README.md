@@ -38,3 +38,8 @@ Eu segui o desafio baseado nesses dois perfis do github:
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia01.gif">
 
 ## Desafio dia 02 - Loader animado (Layered Social Media Icon Hover Effects)
+
+
+- [Meu codigo](https://github.com/iiizadora/30-days-CSS/tree/main/day-2)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia01.gif">
