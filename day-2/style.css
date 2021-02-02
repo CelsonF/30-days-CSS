@@ -46,7 +46,7 @@ body {
   }
 }
 
-.loader:before {
+.loader::before {
   content: '';
   position: absolute;
   top:6px;
@@ -58,7 +58,7 @@ body {
   z-index: 1000;
 }
 
-.loader:after {
+.loader::after {
   content: '';
   position: absolute;
   top:0px;
