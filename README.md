@@ -37,7 +37,7 @@ Eu segui o desafio baseado nesses dois perfis do github:
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia01.gif">
 
-## Desafio dia 02 - Loadind animado (Loading Animations)
+## Desafio dia 02 - Loadindg animado (Loading Animations)
 
 
 - [Meu codigo](https://github.com/iiizadora/30-days-CSS/tree/main/day-2)
