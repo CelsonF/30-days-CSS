@@ -33,13 +33,13 @@ Eu segui o desafio baseado nesses dois perfis do github:
 
 ## Desafio dia 01 - Ícone de mídia social em camadas (Layered Social Media Icon Hover Effects)
 
-- [Meu codigo](https://github.com/iiizadora/30-days-CSS/tree/main/day-1)
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-1)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia01.gif">
 
 ## Desafio dia 02 - Loadindg animado (Loading Animations)
 
 
-- [Meu codigo](https://github.com/iiizadora/30-days-CSS/tree/main/day-2)
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-2)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia02.gif">
