@@ -43,3 +43,11 @@ Eu segui o desafio baseado nesses dois perfis do github:
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-2)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia02.gif">
+
+
+## Desafio dia 03 - Animação com imagem (Animated Website Design)
+
+
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-3)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia03.gif">
