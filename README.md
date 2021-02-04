@@ -29,7 +29,7 @@ Eu segui o desafio baseado nesses dois perfis do github:
 
 #### Youtube Referências nos desafios
 
-[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - [CodingNepal](https://www.youtube.com/c/CodingNepal/videos)
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - [CodingNepal](https://www.youtube.com/c/CodingNepal/videos) - [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA)
 
 ## Desafio dia 01 - Ícone de mídia social em camadas (Layered Social Media Icon Hover Effects)
 
