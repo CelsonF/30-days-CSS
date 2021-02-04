@@ -53,7 +53,7 @@ Eu segui o desafio baseado nesses dois perfis do github:
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia03.gif">
 
 
-## Desafio dia 03 - Animação com imagem (Animated Website Design)
+## Desafio dia 04 - Tabela de preços responsiva (Responsive pricing table)
 
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-4)
 
