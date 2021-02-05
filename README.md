@@ -39,22 +39,24 @@ Eu segui o desafio baseado nesses dois perfis do github:
 
 ## Desafio dia 02 - Loadindg animado (Loading Animations)
 
-
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-2)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia02.gif">
 
-
 ## Desafio dia 03 - Animação com imagem (Animated Website Design)
-
 
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-3)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia03.gif">
-
 
 ## Desafio dia 04 - Tabela de preços responsiva (Responsive pricing table)
 
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-4)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia04.gif">
+
+## Desafio dia 05 - Texto com efeito preenchimento
+
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-5)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia05.gif">
