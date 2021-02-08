@@ -60,3 +60,9 @@ Eu segui o desafio baseado nesses dois perfis do github:
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-5)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia05.gif">
+
+## Desafio dia 06 - Menu de navegação
+
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-6)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia06.gif">
