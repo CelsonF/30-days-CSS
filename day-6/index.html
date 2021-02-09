@@ -3,27 +3,82 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Dia 06 - Menu de navegação</title>
+    <title>Dia 07 - Slide de cartões</title>
     <link rel="stylesheet" href="./style.css" />
-
-    <script
-      src="https://kit.fontawesome.com/cd36104645.js"
-      crossorigin="anonymous"
-    ></script>
   </head>
 
   <body>
-    <nav>
-      <input type="checkbox" id="check" />
-      <label for="check" class="checkbtn"><i class="fas fa-bars"></i></label>
-      <label class="logo">Sorveteria</label>
-      <ul>
-        <li><a href="#">Inicio</a></li>
-        <li><a href="#">Sobre</a></li>
-        <li><a href="#">Produtos</a></li>
-        <li><a href="#">Contato</a></li>
-      </ul>
-    </nav>
-    <section></section>
+    <div class="wrapper">
+      <div class="card" style="--delay: -1">
+        <div class="content">
+          <div class="img">
+            <img src="../day-7/img/zodiac-sign-aries.jpg" alt="Signo Aries" />
+          </div>
+          <div class="details">
+            <span class="name">Áries</span>
+            <p>20/03 - 20/04</p>
+          </div>
+        </div>
+        <a href="#">Saiba Mais</a>
+      </div>
+
+      <div class="card" style="--delay: 0">
+        <div class="content">
+          <div class="img">
+            <img src="../day-7/img/zodiac-sign-taurus.jpg" alt="Signo Touro" />
+          </div>
+          <div class="details">
+            <span class="name">Touro</span>
+            <p>21/04 - 20/05</p>
+          </div>
+        </div>
+        <a href="#">Saiba Mais</a>
+      </div>
+
+      <div class="card" style="--delay: 1">
+        <div class="content">
+          <div class="img">
+            <img
+              src="../day-7/img/zodiac-sign-capricorn.jpg"
+              alt="Signo Capricórnio"
+            />
+          </div>
+          <div class="details">
+            <span class="name">Capricórnio</span>
+            <p>22/12 - 21/01</p>
+          </div>
+        </div>
+        <a href="#">Saiba Mais</a>
+      </div>
+
+      <div class="card" style="--delay: 2">
+        <div class="content">
+          <div class="img">
+            <img
+              src="../day-7/img/zodiac-sign-aquarius.jpg"
+              alt="Signo Aquário"
+            />
+          </div>
+          <div class="details">
+            <span class="name">Aquário</span>
+            <p>21/01 - 18/02</p>
+          </div>
+        </div>
+        <a href="#">Saiba Mais</a>
+      </div>
+
+      <div class="card" style="--delay: 2">
+        <div class="content">
+          <div class="img">
+            <img src="../day-7/img/zodiac-sign-pisces.jpg" alt="Signo Peixes" />
+          </div>
+          <div class="details">
+            <span class="name">Peixes</span>
+            <p>19/02 - 19/03</p>
+          </div>
+        </div>
+        <a href="#">Saiba Mais</a>
+      </div>
+    </div>
   </body>
 </html>

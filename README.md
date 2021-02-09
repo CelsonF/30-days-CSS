@@ -66,3 +66,7 @@ Eu segui o desafio baseado nesses dois perfis do github:
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-6)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia06.gif">
+
+## Desafio dia 07 - Slide de cartões
+
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-7)
