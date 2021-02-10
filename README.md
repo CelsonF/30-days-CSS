@@ -70,3 +70,11 @@ Eu segui o desafio baseado nesses dois perfis do github:
 ## Desafio dia 07 - Slide de cartões
 
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-7)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia07.gif">
+
+## Desafio dia 08 - Botão Day/Night
+
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-8)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia08.gif">
