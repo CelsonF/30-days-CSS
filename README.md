@@ -78,3 +78,9 @@ Eu segui o desafio baseado nesses dois perfis do github:
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-8)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia08.gif">
+
+## Desafio dia 09 - Glassmorphism Profile Card
+
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-9)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia09.gif">

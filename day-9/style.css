@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --color-white: #fff;
+  --color-dark: #111;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  height: 100vh;
+  background-image: url(./img/background.jpg);
+  background-size: cover;
+  color: var(--color-white);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.card {
+  position: relative;
+  width: 18rem;
+  padding: 2rem 1rem;
+  padding-top: 4rem;
+  background-color: rgba(0, 0, 0, 0.1);
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+  -webkit-backdrop-filter: blur(30px);
+  backdrop-filter: blur(30px);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.card-user-pic {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid var(--color-white);
+  -webkit-box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+}
+
+.card-user-pic img {
+  width: 100%;
+  height: 120%;
+  object-fit: cover;
+}
+
+.heading {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.heading-sup {
+  display: block;
+  letter-spacing: 1px;
+  font-size: 1.6rem;
+}
+
+.heading-sub {
+  display: block;
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.btns {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: var(--color-white);
+  padding: 8px 24px;
+  font-size: 0.9rem;
+  border: 1px solid var(--color-white);
+  border-radius: 10rem;
+}
+
+.btn-follow {
+  background-color: var(--color-white);
+  color: var(--color-dark);
+}
+
+.info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.info p {
+  text-align: center;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.info span {
+  display: block;
+}
+
+.info p:not(:last-child) {
+  border-right: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+.info p span:last-child {
+  font-weight: 600;
+}
