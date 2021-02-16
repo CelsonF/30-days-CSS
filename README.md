@@ -97,3 +97,10 @@ Eu segui o desafio baseado nesses dois perfis do github:
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-11)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia11.gif">
+
+
+## Desafio dia 12 - Página de Cadastro
+
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-12)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia12.gif">
