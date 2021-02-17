@@ -104,3 +104,9 @@ Eu segui o desafio baseado nesses dois perfis do github:
 - [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-12)
 
 <img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia12.gif">
+
+## Desafio dia 13 - Botão criativo usando Clip-path
+
+- [Código](https://github.com/iiizadora/30-days-CSS/tree/main/day-13)
+
+<img src="https://github.com/iiizadora/30-days-CSS/blob/main/midia/dia13.gif">
